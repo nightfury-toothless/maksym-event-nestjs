@@ -241,9 +241,3 @@ Also a working example with Nest aggregates working [here](https://github.com/Ny
 
 ## TODOs
 * Use snapshots, so we can reconstruct the aggregates faster.
-
-
-## 📝 Stay in touch
-
-- Author - [Nytyr](https://keybase.io/nytyr)
-- Website - [https://arkerlabs.com/](https://arkerlabs.com/)
